@@ -15,7 +15,7 @@ This is an image classification API that predicts the name of the food in the pr
 1. Install Python 3.x from [here](https://www.python.org/downloads/).
 2. Install the required libraries using the command below:
 ```
-pip install flask tensorflow==2.5.0 keras numpy
+pip install -r requirements.txt
 ```
 3. Clone this repository or download the files.
 4. Navigate to the cloned/downloaded directory and run the following command to start the server:
