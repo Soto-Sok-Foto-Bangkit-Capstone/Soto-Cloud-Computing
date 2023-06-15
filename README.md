@@ -1,5 +1,5 @@
 # Cloud-Computing
-# API Readme.md
+# API 
 
 ## Introduction
 This is an image classification API that predicts the name of the food in the provided image. The API utilizes TensorFlow Lite to run a pre-trained model for image classification. The model has been trained on 9 different types of foods: Ayam Goreng, Ayam Pop, Daging Rendang, Dendeng Batokok, Gulai Ikan, Gulai Tambusu, Gulai Tunjang, Telur balado, and Telur dadar.
