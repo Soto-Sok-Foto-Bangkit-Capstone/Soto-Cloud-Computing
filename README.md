@@ -20,11 +20,11 @@ pip install -r requirements.txt
 3. Clone this repository or download the files.
 4. Navigate to the cloned/downloaded directory and run the following command to start the server:
 ```
-python app.py
+python main.py
 ```
 
 ## Usage
-1. Start the server by running `python app.py` command.
+1. Start the server by running `python main.py` command.
 2. Send a POST request to `http://localhost:8080/process` with an image file attached as 'img' parameter in the request body.
 For example, using cURL:
 ```
